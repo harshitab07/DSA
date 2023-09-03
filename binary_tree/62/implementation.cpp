@@ -2,6 +2,14 @@
 Creation 
 */
 
+/*
+? Different types of traversals ::
+* Level order traversal -> Level by level 
+(Node; then left to right for every level)
+* In order Traversal -> LNR -> Left Node right
+* Pre order traversal -> NLR
+* Post order traversal -> LRN
+*/
 #include <iostream>
 using namespace std;
 

@@ -45,7 +45,7 @@ class Stack {
     }
     
     void print(int size) {
-        int i = top;
+        int i = size - 1;
         
         while(i>=0) {
             cout<<arr[i]<<" ";
